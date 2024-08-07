@@ -1,0 +1,10 @@
+{
+    "transactionTypeCode": "CARD_PUR",
+    "money": {
+      "amount": 1.22,
+      "currencyCode": "EUR"
+    },
+    "valueDate": "2024-08-07",
+    "details": "Card purchase - New laptop purchase",
+    "referenceNumber": "CT20230606"
+  }

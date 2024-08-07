@@ -1,0 +1,8 @@
+{
+  "accountTypeCode": "CURRENCY",
+  "personName": "Test Account",
+  "customerGroupCode": "GROUP_A",
+  "priceListTypeCode": "STANDARD",
+  "residencyCountryCode": "GB",
+  "currencyCode": "GBP"
+}
